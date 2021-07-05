@@ -1,5 +1,8 @@
 # Hello 
 
+### My name is Emilly, I'm 18 years old and I'm a full stack junior web developer! Know my work and learning ✨
+
+
 <!--
 **Millybraga/Millybraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
