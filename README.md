@@ -1,6 +1,6 @@
 # Hello world!
 
-#### My name is Emilly, I'm 19 years old and I'm a full stack junior web developer! Know my work and learning ✨
+#### My name is Emilly, I'm 19 years old and I'm a systems analysis and development student! Know my work and learning ✨
 
 
 <!--
