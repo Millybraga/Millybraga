@@ -1,6 +1,7 @@
 # Hello world!
 
-#### My name is Emilly, I'm 19 years old and I'm a systems analysis and development student! Know my work and learning ✨
+#### Muito prazer, me chamo Emilly. Tenho 21 anos, sou recém formada no curso de Análise e Desenvolvimento de Sistemas e prossigo em meus estudos de tecnologia da informação.Seja bem vindo(a) ao meu perfil ✨
+
 
 
 <!--
